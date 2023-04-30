@@ -13,7 +13,7 @@
 @import url('https://raw.githubusercontent.com/H-Loon/theme-1/main/test?token=GHSAT0AAAAAACB3VW3SAI7PEWME5DXQCJ5IZCO6SAQ');
 
 :root {
-  --darkplus-bg: #212121;
+  --darkplus-bg: url(https://cdn.discordapp.com/attachments/918442353730146354/1009859851075207348/HLOON_Borderlands_3_Wide_Angle_Perspective_Double-Exposure_Ligh_6e5bb475-66a3-42a0-bb77-06f1d2da827e.png);
   --darkplus-bg2: #212121;
   --darkplus-sec: #02e8d9;
   --darkplus-links: #a6eff7;
