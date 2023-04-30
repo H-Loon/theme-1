@@ -1,0 +1,28 @@
+/**
+  * @name Dark+
+  * @author DevEvil#8745
+  * @version Dark+3
+  * @description Highly customized dark and purple theme for Discord
+  * @authorId 468132563714703390
+  * @authorLink https://devevil.com
+  * @source https://github.com/DevEvil99/DarkPlus-Discord-Theme
+  * @website https://devevil.com
+  * @invite jsQ9UP7kCA
+*/
+
+@import url('https://raw.githubusercontent.com/H-Loon/theme-1/main/test?token=GHSAT0AAAAAACB3VW3SAI7PEWME5DXQCJ5IZCO6SAQ');
+
+:root {
+  --darkplus-bg: #212121;
+  --darkplus-bg2: #212121;
+  --darkplus-sec: #02e8d9;
+  --darkplus-links: #a6eff7;
+  --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/918442353730146354/1102356537281872055/discord-avatar-512-YV0PV.png);
+ --watermark-filter-invert: 0%;
+  --watermark-filter-sepia: 50%;
+  --watermark-filter-saturate: 3000%;
+  --watermark-filter-hue-rotate: 210deg;
+  --watermark-filter-brightness: 70%;
+  --watermark-filter-contrast: 200%;
+  --darkplus-emoji-picker-color: 210deg;
+}
