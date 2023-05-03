@@ -10,14 +10,14 @@
   * @invite jsQ9UP7kCA
 */
 
-@import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Dark+/Dark+.theme.css');
+@import url('https://raw.githubusercontent.com/H-Loon/theme-1/main/test?token=GHSAT0AAAAAACB3VW3SQ5CU2EAMNOBFO3IYZCSFKSA');
 
 :root {
   --darkplus-bg: #212121;
-  --darkplus-bg2: #aef3f2;
+  --darkplus-bg2: #302f2f;
   --darkplus-sec: #86fcfa;
-  --darkplus-links: #302f2f;
-  --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/918442353730146354/1102356537281872055/discord-avatar-512-YV0PV.png);
+  --darkplus-links: #aef3f2;
+  --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/918442353730146354/1102655574690246746/discord-avatar-512-YV0PV.png);
  --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
   --watermark-filter-saturate: 3000%;
