@@ -10,7 +10,7 @@
   * @invite jsQ9UP7kCA
 */
 
-@import url('https://raw.githubusercontent.com/H-Loon/theme-1/main/test?token=GHSAT0AAAAAACB3VW3SAI7PEWME5DXQCJ5IZCO6SAQ');
+@import url('https://raw.githubusercontent.com/H-Loon/theme-1/main/test?token=GHSAT0AAAAAACB3VW3TUOXTWK4W3LCIXM2SZCSE7AA');
 
 :root {
   --darkplus-bg: #212121;
