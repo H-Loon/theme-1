@@ -10,7 +10,7 @@
   * @invite jsQ9UP7kCA
 */
 
-@import url('https://raw.githubusercontent.com/H-Loon/theme-1/main/test?token=GHSAT0AAAAAACB3VW3TUOXTWK4W3LCIXM2SZCSE7AA');
+@import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Dark+/Dark+.theme.css');
 
 :root {
   --darkplus-bg: #212121;
