@@ -13,7 +13,7 @@
 @import url('https://raw.githubusercontent.com/H-Loon/theme-1/b4e9028ae87b631145199592dc686f410a339a3b/test?token=GHSAT0AAAAAACB3VW3SNMXCLUW4YUDQGYQOZCSU5XQ');
 
 :root {
-  --darkplus-bg: #1f1813;
+  --darkplus-bg: ;
   --darkplus-bg2: #302721;
   --darkplus-sec: #ad8a65;
   --darkplus-links: #a1654c;
