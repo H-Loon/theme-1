@@ -13,7 +13,7 @@
 @import url('https://raw.githubusercontent.com/H-Loon/theme-1/b4e9028ae87b631145199592dc686f410a339a3b/test?token=GHSAT0AAAAAACB3VW3SNMXCLUW4YUDQGYQOZCSU5XQ');
 
 :root {
-  --darkplus-bg: url(https://cdn.discordapp.com/attachments/1021085358894633032/1146502919441621023/Wallpaper.jpg);
+  --darkplus-bg: #302721;
   --darkplus-bg2: #302721;
   --darkplus-sec: #ad8a65;
   --darkplus-links: #a1654c;
